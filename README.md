@@ -6,6 +6,9 @@
 - 💪 ![Static Badge](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
 
  Tenho algum conhecimento em Python, Java, C++; nada muito aprofundado pois desenvolvo em determinada linguagem conforme a necessidade do projeto, o que acaba impedindo de me aprofundar em uma única linguagem. Vago conhecimento de web stack....só o estritamente necessário.
+
+- https://img.shields.io/github/followers/texugobyte
+
 - 📫 Contato ... texugoByte@gmail.com
 
 <!---
